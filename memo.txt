@@ -1,0 +1,11 @@
+React Navigatorを使用するのに(expo使用時)
+npm install react-native-screens 
+npm install react-native-safe-area-context
+npm install @react-navigation/native
+npm install @react-navigation/stack
+expo install react-native-gesture-handler
+expo install @react-native-masked-view/masked-view
+が必要。
+expoをwebで確認するために
+react-native-web
+が必要。
